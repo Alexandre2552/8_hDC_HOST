@@ -1,4 +1,5 @@
-Habilidades Adquiridas
+Habilidades Adquiridas neste projeto.
+
 1. HTML (HyperText Markup Language)
 Estruturação de páginas web utilizando tags semânticas.
 
@@ -9,6 +10,7 @@ Inserção de imagens, vídeos e outros elementos multimídia.
 Utilização de formulários para interação com o usuário.
 
 Organização de conteúdo para melhor acessibilidade e SEO.
+
 
 2. CSS (Cascading Style Sheets)
 Estilização de páginas web, aplicando cores, fontes e espaçamentos.
@@ -31,6 +33,7 @@ Formulários interativos.
 Estruturas de navegação com menus estilizados.
 
 Páginas temáticas utilizando animações e efeitos visuais.
+
 
 Considerações Finais
 A formação em Front-End me proporcionou as competências necessárias para iniciar projetos web, criar interfaces atraentes e garantir uma boa experiência ao usuário, utilizando as melhores práticas de HTML e CSS.
