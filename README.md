@@ -29,4 +29,4 @@
 
 ## Considerações Finais
 
-A formação em Front-End me proporcionou as competências para iniciar projetos web, criar interfaces interessantes e garantir uma boa experiência ao usuário, utilizando as melhores práticas de HTML e CSS.
+Este trabalho me proporcionou as competências para iniciar projetos web, criar interfaces interessantes e garantir uma boa experiência ao usuário, utilizando as melhores práticas de HTML e CSS.
