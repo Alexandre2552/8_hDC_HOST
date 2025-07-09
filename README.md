@@ -1,6 +1,6 @@
 # Habilidades Adquiridas neste Projeto 🚀
 
-## 1. HTML (Linguagem de Marcação de Hipertexto) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32"/>
+## 1. HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32"/>
 
 - Estruturação de páginas web utilizando tags semânticas.
 - Criação de títulos, parágrafos, listas, links e tabelas.
@@ -8,7 +8,7 @@
 - Utilização de formulários para interação com o usuário.
 - Organização de conteúdo para melhor acessibilidade e SEO.
 
-## 2. CSS (Folhas de Estilo em Cascata) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32"/>
+## 2. CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32"/>
 
 - Estilização de páginas web, aplicando núcleos, fontes e espaçamentos.
 - Criação de layouts responsivos com Flexbox e Grid.
