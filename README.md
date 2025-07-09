@@ -1,6 +1,6 @@
 # Habilidades Adquiridas neste Projeto 🚀
 
-## 1. HTML (Linguagem de Marcação de Hipertexto)
+## 1. HTML ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 
 - Estruturação de páginas web utilizando tags semânticas.
 - Criação de títulos, parágrafos, listas, links e tabelas.
@@ -8,7 +8,7 @@
 - Utilização de formulários para interação com o usuário.
 - Organização de conteúdo para melhor acessibilidade e SEO.
 
-## 2. CSS (Folhas de Estilo em Cascata)
+## 2. CSS ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
 - Estilização de páginas web, aplicando núcleos, fontes e espaçamentos.
 - Criação de layouts responsivos com Flexbox e Grid.
@@ -29,4 +29,4 @@
 
 ## Considerações Finais
 
-Este trabalho me proporcionou as competências para iniciar projetos web, criar interfaces interessantes e garantir uma boa experiência ao usuário, utilizando as melhores práticas de HTML e CSS.
+A formação em Front-End me proporcionou as competências para iniciar projetos web, criar interfaces interessantes e garantir uma boa experiência ao usuário, utilizando as melhores práticas de HTML e CSS.
