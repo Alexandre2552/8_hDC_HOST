@@ -1,4 +1,4 @@
-# Habilidades Adquiridas neste Projeto 🚀
+## Habilidades Adquiridas neste Projeto 🚀
 
 ### 1. HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32"/>
 
@@ -8,7 +8,7 @@
 - Utilização de formulários para interação com o usuário.
 - Organização de conteúdo para melhor acessibilidade e SEO.
 
-## 2. CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32"/>
+### 2. CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32"/>
 
 - Estilização de páginas web, aplicando núcleos, fontes e espaçamentos.
 - Criação de layouts responsivos com Flexbox e Grid.
@@ -18,7 +18,7 @@
 
 ---
 
-## Projetos Práticos
+### Projetos Práticos
 
 - Landing pages responsivas.
 - Formulários interativos.
@@ -27,6 +27,6 @@
 
 ---
 
-## Considerações Finais
+### Considerações Finais
 
 Este trabalho me proporcionou as competências para iniciar projetos web, criar interfaces interessantes e garantir uma boa experiência ao usuário, utilizando as melhores práticas de HTML e CSS.
