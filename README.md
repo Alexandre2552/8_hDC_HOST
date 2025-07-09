@@ -1,5 +1,5 @@
 
-Habilidades Adquiridas neste projeto!!!
+#Habilidades Adquiridas neste projeto!!!
 
 1.	HTML (HyperText Markup Language):
 
@@ -8,6 +8,7 @@ Habilidades Adquiridas neste projeto!!!
 •	Inserção de imagens, vídeos e outros elementos multimídia.
 •	Utilização de formulários para interação com o usuário.
 •	Organização de conteúdo para melhor acessibilidade e SEO.
+
 2.	CSS (Cascading Style Sheets):
 
 •	Estilização de páginas web, aplicando cores, fontes e espaçamentos.
