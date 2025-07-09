@@ -1,6 +1,6 @@
 # Habilidades Adquiridas neste Projeto 🚀
 
-## 1. HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32"/>
+### 1. HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32"/>
 
 - Estruturação de páginas web utilizando tags semânticas.
 - Criação de títulos, parágrafos, listas, links e tabelas.
