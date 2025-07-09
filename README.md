@@ -1,6 +1,6 @@
 # Habilidades Adquiridas neste Projeto 🚀
 
-## 1. HTML ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+## 1. ![HTML5 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML (Linguagem de Marcação de Hipertexto)
 
 - Estruturação de páginas web utilizando tags semânticas.
 - Criação de títulos, parágrafos, listas, links e tabelas.
@@ -8,7 +8,7 @@
 - Utilização de formulários para interação com o usuário.
 - Organização de conteúdo para melhor acessibilidade e SEO.
 
-## 2. CSS ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+## 2. ![CSS3 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS (Folhas de Estilo em Cascata)
 
 - Estilização de páginas web, aplicando núcleos, fontes e espaçamentos.
 - Criação de layouts responsivos com Flexbox e Grid.
