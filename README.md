@@ -1,4 +1,4 @@
-# Habilidades Adquiridas neste Projeto 🚀 ![HTML5 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) ![CSS3 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+# Habilidades Adquiridas neste Projeto 🚀
 
 ## 1. HTML (Linguagem de Marcação de Hipertexto)
 
