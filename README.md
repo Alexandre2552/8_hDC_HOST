@@ -1,5 +1,6 @@
 Habilidades Adquiridas neste projeto.
 
+
 1. HTML (HyperText Markup Language)
 Estruturação de páginas web utilizando tags semânticas.
 
@@ -10,6 +11,7 @@ Inserção de imagens, vídeos e outros elementos multimídia.
 Utilização de formulários para interação com o usuário.
 
 Organização de conteúdo para melhor acessibilidade e SEO.
+
 
 
 2. CSS (Cascading Style Sheets)
@@ -33,6 +35,7 @@ Formulários interativos.
 Estruturas de navegação com menus estilizados.
 
 Páginas temáticas utilizando animações e efeitos visuais.
+
 
 
 Considerações Finais
